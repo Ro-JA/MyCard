@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">News List</string>
+    <string name="about">About</string>
+    <string name="text_summary">I have been doing android development since 2020,
+        there are applications on the play market.</string>
+    <string name="text_name">Roman Boyarkin</string>
+    <string name="text_info_my">Junior android developer</string>
+    <string name="hint">Enter message</string>
+    <string name="send_twitter">Twitter</string>
+    <string name="send_massage">Telegram</string>
+    <string name="chooser">Send message via...</string>
+</resources>
